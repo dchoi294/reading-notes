@@ -1,4 +1,4 @@
-# My reading Journal Codefellows 102
+# My reading Journal Codefellows 102 :slightly_smiling_face:
 
 My name is Don Choi, and I am a student in codefellows class 102.
 
