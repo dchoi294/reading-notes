@@ -9,4 +9,4 @@ Growth Mindset is to me...
 * Reminder 2
 * Reminder 3
 
-Link to my portforlio: https://github.com/dchoi294
+Link to my portforlio: [title](https://github.com/dchoi294)
