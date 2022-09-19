@@ -1,10 +1,13 @@
 # My reading Journal Codefellows 102 :slightly_smiling_face: :+1:
+![Don](https://user-images.githubusercontent.com/113468027/191122787-16e3244e-83f9-4495-8137-c635e4d5ba04.jpg)
 
-![Image](file:///C:/Users/dchoi/OneDrive/Desktop/unnamed.jpg)
-My name is Don Choi, and I am currently a student in codefellows class 102.
-Phone : 2062147263
-e-mail : dchoi294@gmail.com
 
+
+- My name is Don Choi, and I am currently a student in codefellows class 102.
+- Phone : 2062147263
+- e-mail : dchoi294@gmail.com
+
+Link to my portforlio on github: [Don Choi](https://github.com/dchoi294)
 
 
 ## **Growth Mindset is to me**...
@@ -18,4 +21,3 @@ A pathfinder that leads to your future.
 - Reminder 3 => Be afraid of same mistakes I will be able to make instead of new ones that I will make.
 
 
-Link to my portforlio: [Don Choi](https://github.com/dchoi294)
