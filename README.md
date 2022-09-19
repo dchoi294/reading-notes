@@ -5,13 +5,13 @@ My name is Don Choi, and I am a student in codefellows class 102.
 
 ## **Growth Mindset is to me**...
 
-A path way 
+A pathfinder that leads to your future.
 
 *Three Reminders to Stay In Growth Mindset*:
 
-* Reminder 1 => Never be proud to myself too much.
-* Reminder 2 => Think of myself in the future whenever I feel like to quit.
-* Reminder 3 => 
+- Reminder 1 => Never be proud to myself too much.
+- Reminder 2 => Think of myself in the future whenever I feel like to give up or quit.
+- Reminder 3 => Be afraid of same mistakes I will be able to make instead of new ones that I will make.
 
 
-Link to my portforlio: [title](https://github.com/dchoi294)
+Link to my portforlio: [Don Choi](https://github.com/dchoi294)
