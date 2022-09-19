@@ -1,4 +1,4 @@
-# My reading Journal Codefellows 102 :slightly_smiling_face:
+# My reading Journal Codefellows 102 :slightly_smiling_face: :+1:
 
 My name is Don Choi, and I am a student in codefellows class 102.
 
@@ -6,6 +6,7 @@ My name is Don Choi, and I am a student in codefellows class 102.
 ## **Growth Mindset is to me**...
 
 A pathfinder that leads to your future.
+
 
 *Three Reminders to Stay In Growth Mindset*:
 
