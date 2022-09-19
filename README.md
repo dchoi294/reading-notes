@@ -1,12 +1,15 @@
 # My reading Journal Codefellows 102 :slightly_smiling_face: :+1:
 
-My name is Don Choi, and I am a student in codefellows class 102.
+![Image](file:///C:/Users/dchoi/OneDrive/Desktop/unnamed.jpg)
+My name is Don Choi, and I am currently a student in codefellows class 102.
+Phone : 2062147263
+e-mail : dchoi294@gmail.com
+
 
 
 ## **Growth Mindset is to me**...
 
 A pathfinder that leads to your future.
-
 
 *Three Reminders to Stay In Growth Mindset*:
 
