@@ -21,3 +21,5 @@ A pathfinder that leads to your future.
 - Reminder 3 => Be afraid of same mistakes I will be able to make instead of new ones that I will make.
 
 
+## Assignments!
+[Read: 02](https://dchoi294.github.io/reading2/)  
