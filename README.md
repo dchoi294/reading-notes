@@ -6,6 +6,8 @@
 - Phone : 2062147263
 - e-mail : dchoi294@gmail.com
 
+[Growth mindset](growthmindset.md)
+
 Link to my portforlio on github: [Don Choi](https://github.com/dchoi294)
 
 ## Table Of Contents
