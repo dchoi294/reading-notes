@@ -10,7 +10,7 @@
 
 Link to my portforlio on github: [Don Choi](https://github.com/dchoi294)
 
-## Table Of Contents
+## Table of Contents for class 102
 
 *[Class 1 Notes](102/class1.md)  
 *[Class 2 Notes](102/class2.md)  
@@ -20,3 +20,8 @@ Link to my portforlio on github: [Don Choi](https://github.com/dchoi294)
 *[Class 6 Notes](102/class6.md)  
 *[Class 7 Notes](102/class7.md)  
 *[Class 8 Notes](102/class8.md)  
+
+## Table of Contents for class 201
+
+*[Class 1 Notes](201/class1/readings.md)  
+*[Class 1 Notes](201/class2/readings.md)
