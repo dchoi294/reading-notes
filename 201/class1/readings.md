@@ -11,7 +11,6 @@ Reference [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Get
 Reference [Website Design and Process](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)  
 Reference [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)  
 
-
 ## Introduction to HTML
 
 HTML is HyperText Markup Language. The Anatomy of an HTML element is the opening tag, content, and closing tag.  
@@ -23,7 +22,6 @@ A "meta" element specifies the document's character encoding, the character set 
 Reference [Gettting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)  
 Reference [HTML Document Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)  
 Reference [Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)  
-
 
 ## Miscellaneous
 
@@ -51,4 +49,4 @@ Reference [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/J
 
 *Semantics*, I want to know more about this part so that I can build a better structure of the webpage with more features and benefits of it.
 
-[Back to Home](../README.md)
+[Back to Home](../../README.md)
