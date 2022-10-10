@@ -21,6 +21,6 @@ Reference [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web
 
 ## Things I want to more about
 
-
+I want to know more about how can I apply these knowledge into actual coding in real life.
 
 [Back to Home](../../README.md)
