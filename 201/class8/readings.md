@@ -8,7 +8,6 @@ It means that it is designed to provide greater control over alignment and space
 The cross axis runs perpendicular to the main axis. "The main axis is the one set by your "flex-direction" property. The cross axis runs in the other direction to the main axis, so if "flex-direction is the "row" the cross axis runs along the column."
 3. How can using certain properties of flexbox negatively impact accessibility?  
 
-
 Reference [Learn CSS - Firefox](https://web.dev/learn/css/flexbox/)  
 
 ## CSS Layout - Firebox
