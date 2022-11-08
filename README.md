@@ -38,3 +38,8 @@ Link to my portforlio on github: [Don Choi](https://github.com/dchoi294)
 *[Class 13 Notes](201/class13/readings.md)  
 *[Class 14 Notes](201/class14/readings.md)  
 *[Class 15 Notes](201/class15/readings.md)  
+
+## Table of Contents for Class 301
+
+*[Class 1 Notes](301/class1.md)  
+*[Class 2 Notes](301/class2.md)  
