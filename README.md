@@ -1,6 +1,6 @@
 # My reading Journal Codefellows 102 🙂
 
-![Don](https://user-images.githubusercontent.com/113468027/191122787-16e3244e-83f9-4495-8137-c635e4d5ba04.jpg)
+![Don](https://user-images.githubusercontent.com/113468027/191122787-16e3244e-83f9-4495-8137-c635e4d5ba04.jpg "picture of myself")
 
 - My name is Don Choi, and I am currently a student in codefellows class 102.
 - Phone : 2062147263
@@ -49,4 +49,5 @@ Link to my portforlio on github: [Don Choi](https://github.com/dchoi294)
 *[Class 6 Notes](301/class6.md)  
 *[Class 7 Notes](301/class7.md)  
 *[Class 7 Notes](301/class8.md)  
-*[Class 7 Notes](301/class8.md)  
+*[Class 7 Notes](301/class9.md)  
+*[Class 7 Notes](301/class10.md)  
