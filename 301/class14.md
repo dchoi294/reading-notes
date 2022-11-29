@@ -1,4 +1,4 @@
-# Class 13 Reading Note
+# Class 14 Reading Note
 
 What occurred during the same time as the beginning of the decline of women in computer science?
 
