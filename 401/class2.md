@@ -1,4 +1,4 @@
-# Class 1 Reading Note
+# Class 2 Reading Note
 
 ### TDD with Python
 
