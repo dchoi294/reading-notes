@@ -1,4 +1,4 @@
-# Class 12 Reading Note
+# Class 13 Reading Note
 
 ***Linear Regression Concepts***  
 A basic understanding of statistical math is key to comprehending linear regression, as is a good grounding in ML concepts.  
