@@ -1,4 +1,4 @@
-# Class 15 Reading Note
+# Class 16 Reading Note
 
 ## What is serverless?
 
